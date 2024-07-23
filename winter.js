@@ -1,1 +1,1 @@
-console.log('arfat ko thand lag raha hai')
+console.log('arfat ko thand nahi lag raha hai')
